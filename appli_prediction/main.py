@@ -3,7 +3,7 @@ import streamlit as st
 import pandas as pd
 
 # chemin
-model_path = '/mount/src/projet_ml2_2024/Appli_prediction/model.sav'
+model_path = '/mount/src/projet_ml2_2024/appli_prediction/model.sav'
 
 # Chargement du modèle XGBoost retenu
 with open(model_path, 'rb') as f:
