@@ -8,7 +8,7 @@ Il contient les données mise à notre disposition pour le projet dont le datase
 - **notebooks** :
 Vous trouverez à l'intérieur de ce dossier 3 notebooks : churn_01_EDA, churn_02_model_AUC et churn_02_model_f2_weighted
 
-EDA_cleaning : contient l'ensemble des codes utilisés 
+churn_01_EDA : contient l'ensemble des codes utilisés 
 pour l'analyse exploratoire.
 
 churn_02_model_AUC : contient les différents modèles testés et leurs
