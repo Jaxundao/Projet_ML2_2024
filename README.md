@@ -19,4 +19,4 @@ les 2 modélisation étant effectuée dans le but de comparer ces 2 métriques e
 - **appli_prediction** : 
 Il contient le code python ayant servi à concevoir l'API (main.py) ainsi que le modèle utilisé (model.sav). 
 
-Le fichier requirements.txt contient l'ensemble des dépendances de l'application.
+Le fichier requirements.txt contient l'ensemble des dépendances de l'application permettant le déploiement de l'application.
