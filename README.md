@@ -1,4 +1,4 @@
-Lien vers l'API : https://projetml2024-apwpm9cuydqeiypugjxgys.streamlit.app/
+Lien vers l'API : https://projetml22024-tpwraartcp6mcqqhglsfdt.streamlit.app/
 
 Ce dossier est composé de 3 sous dossiers : data, notebooks et appli_prediction
 
